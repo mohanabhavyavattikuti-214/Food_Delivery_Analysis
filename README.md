@@ -10,6 +10,9 @@ The goal of this project is to help restaurants and food delivery businesses mak
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
 ## 📊 Dashboard Features
 
 - 📦 Total Orders
