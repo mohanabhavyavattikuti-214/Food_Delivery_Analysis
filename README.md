@@ -62,3 +62,10 @@ GitHub Repository: [Food_Delivery_Analysis](https://github.com/mohanabhavyavatti
 Demo Dashboard:[Food_Delivery_Dashboard_Demo.zip](https://github.com/user-attachments/files/30010447/Food_Delivery_Dashboard_Demo.zip)
 Demo Video:[Screen Recording 2026-07-06 213135.zip](https://github.com/user-attachments/files/30010420/Screen.Recording.2026-07-06.213135.zip)
 
+# Food Delivery Analysis Dashboard
+
+## Tableau Dashboard
+
+📊 Click here to view the interactive dashboard:
+
+https://public.tableau.com/views/Food_Delivery_Analysis_17845652576930/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
